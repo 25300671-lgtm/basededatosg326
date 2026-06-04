@@ -58,3 +58,10 @@ docker run -d --name server-postgresg3 \
 eba8d
 
 ```
+
+ ### ContenedorES SQLServer con volumen
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=P@ssw0rd" \
+   -u 0 \
+   -p 1451:1433 --name vol-sqlserverg3 \
+   -d -v v-sqlserverg3:/var/opt/mssql/data \
+   d01cc
