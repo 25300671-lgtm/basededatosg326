@@ -51,3 +51,8 @@ FROM categoria2;
 SELECT *
 FROM producto2
 WHERE categoria_id=1;
+
+
+
+
+
