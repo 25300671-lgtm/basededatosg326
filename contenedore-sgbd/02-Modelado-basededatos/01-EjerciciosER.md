@@ -20,6 +20,9 @@ Un hospital registra información de sus pacientes.
 - No puede existir un expediente sin paciente.
 - No puede existir un paciente sin expediente.
 
+## Solucion del ejercicio 1
+![Solucion Ejercicio 2](../../img/ER/PacienteExpedieenteEr.jpeg)
+
 
 ## Ejercicio 2
 

@@ -1,4 +1,4 @@
-# Diccionario de Datos de bases de datos control escolar
+# Diccionario de Datos de bases de datos control escolar **EJEMPLO DADO POR EL PROFE GALLARDO**
 
 1. Informacion General
 
@@ -112,5 +112,9 @@ Permite controlar la oferta educativa y la inscripcion de los estudiantes
 
 9. Diagrama Relacional
 
+![Solucion](../../img/ER/pacienteExpedieenteEr.jpeg)
 
-![Solucion Ejercicio 1](../img/ER/diagrama.png)
+10. Modelo relacional
+
+![Solucion](../../img/ER/pacienteExpediente.png)
+
