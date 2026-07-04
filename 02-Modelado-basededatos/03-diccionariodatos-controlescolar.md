@@ -112,9 +112,9 @@ Permite controlar la oferta educativa y la inscripcion de los estudiantes
 
 9. Diagrama Relacional
 
-![Solucion](../../img/ER/pacienteExpedieenteEr.jpeg)
+![Solucion](../img/ER/pacienteExpedieenteEr.jpeg)
 
 10. Modelo relacional
 
-![Solucion](../../img/ER/pacienteExpediente.png)
+![Solucion](../img/ER/pacienteExpediente.png)
 
