@@ -103,8 +103,8 @@ Permite controlar la asignación de los cursos académicos a los profesores corr
 
 9. Diagrama Relacional
 
-![Solucion](../../img/ER/profcur.jpeg)
+![Solucion](../img/ER/profcur.jpeg)
 
 10. Modelo relacional
 
-![Solucion](../../img/Relacional/profcurso.jpeg)
+![Solucion](../img/Relacional/profcurso.jpeg)
