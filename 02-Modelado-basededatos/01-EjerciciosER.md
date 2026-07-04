@@ -21,7 +21,7 @@ Un hospital registra información de sus pacientes.
 - No puede existir un paciente sin expediente.
 
 ## Solucion del ejercicio 1
-![Solucion Ejercicio 2](../../img/ER/PacienteExpedieenteEr.jpeg)
+![Solucion Ejercicio 2](../img/ER/PacienteExpedieenteEr.jpeg)
 
 
 ## Ejercicio 2
@@ -58,7 +58,7 @@ Una universidad administra profesores y cursos
 -Determinar la Participacion
 
 ## Solucion del ejercicio 2
-![Solucion Ejercicio 2](../../img/ER/profcur.jpeg)
+![Solucion Ejercicio 2](../img/ER/profcur.jpeg)
 
 
 ## Ejercicio 3
@@ -92,7 +92,7 @@ Nota: La relacion se debe llamar
 **INSCRIBE**
 
 ## Solucion del ejercicio 3
-![Solucion Ejercicio 3](../../img/ER/alummat.jpeg)
+![Solucion Ejercicio 3](../img/ER/alummat.jpeg)
 
 
 ## Ejercicio 4
@@ -127,7 +127,7 @@ Una empresa se dedica a la venta de productos al por mayor, y necesita registrar
 
 
 ## Solucion del ejercicio 4
-![Solucion Ejercicio 4](../../img/ER/pedidprod.jpeg)
+![Solucion Ejercicio 4](../img/ER/pedidprod.jpeg)
 
 
 ## Ejercicicio 5
@@ -144,4 +144,4 @@ The requirements are specified below:
 
 
 ## Solucion del ejercicio 5
-![Solucion Ejercicio 5](../../img/ER/ingl.jpeg)
+![Solucion Ejercicio 5](../img/ER/ingl.jpeg)
