@@ -88,8 +88,8 @@ Permite controlar el registro de datos personales de los pacientes y la apertura
 
 9. Diagrama Relacional
 
-![Solucion](../../img/ER/pacienteExpedieenteEr.jpeg)
+![Solucion](../img/ER/pacienteExpedieenteEr.jpeg)
 
 10. Modelo relacional
 
-![Solucion](../../img/Relacional/PacienteExpediente.png)
+![Solucion](../img/Relacional/PacienteExpediente.png)
