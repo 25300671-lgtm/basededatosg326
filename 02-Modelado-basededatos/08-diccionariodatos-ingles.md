@@ -165,8 +165,8 @@ Permite controlar la estructura interna de una organización, asignando empleado
 
 9. Diagrama Relacional
 
-![Solucion](../../img/ER/ingl.jpeg)
+![Solucion](../img/ER/ingl.jpeg)
 
 10. Modelo relacional
 
-![Solucion](../../img/Relacional/ingleselaboradomr.png)
+![Solucion](../img/Relacional/ingleselaboradomr.png)

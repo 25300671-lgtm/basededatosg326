@@ -216,4 +216,4 @@ Permite controlar todo el ciclo escolar, desde la información de contacto y seg
 
 9. Modelo relacional
 
-![Solucion](../../img/Relacional/largotelpromr.png)
+![Solucion](../img/Relacional/largotelpromr.png)
