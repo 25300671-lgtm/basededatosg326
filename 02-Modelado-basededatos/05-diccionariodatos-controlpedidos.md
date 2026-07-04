@@ -117,8 +117,8 @@ Permite controlar el registro de clientes, el seguimiento de sus pedidos realiza
 
 9. Diagrama Relacional
 
-![Solucion](../../img/ER/pedidprod.jpeg)
+![Solucion](../img/ER/pedidprod.jpeg)
 
 10. Modelo relacional
 
-![Solucion](../../img/Relacional/clientepedidomr.png)
+![Solucion](../img/Relacional/clientepedidomr.png)
